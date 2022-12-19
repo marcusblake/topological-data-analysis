@@ -1,0 +1,3 @@
+*.pyc
+topological_autoencoders/.ipynb_checkpoints
+data/*.csv
